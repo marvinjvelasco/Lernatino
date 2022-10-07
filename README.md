@@ -12,5 +12,5 @@ of HTML and CSS.
 
 ![Lernatino](./assets/images/Lernatino-screenshot.PNG)
 
-## Live Horiseon Link
-[Lernatino](https://marvinjvelasco.github.io/Lernatino/)git a
+## Live Lernatino Link
+[Lernatino](https://marvinjvelasco.github.io/Lernatino/)
